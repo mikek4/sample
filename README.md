@@ -1,2 +1,3 @@
 # sample
-Sample Repository
+
+This is a sample repository for class.
